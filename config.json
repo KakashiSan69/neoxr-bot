@@ -1,5 +1,5 @@
 {
-   "owner": "6285xxxxxxxx",
+   "owner": "919389379221",
    "owner_name": "Wildan Izzudin",
    "database": "data",
    "limit": 15,
@@ -12,11 +12,12 @@
    "permanent_threshold": 3,
    "notify_threshold": 4,
    "banned_threshold": 5,
-   "blocks": ["994", "91", "92"],
+   "blocks": ["994", "62", "92"],
    "evaluate_chars":  ["=>", "~>", "<", ">", "$"],
    "pairing": {
       "state": true,
-      "number": 6282258694977,
-      "code": "NEOXRBOT"
+      "number": 919389379221,
+      "code": "LEVIBOTT"
    }
+
 }
